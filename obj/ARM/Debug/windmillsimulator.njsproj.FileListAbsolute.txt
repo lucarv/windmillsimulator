@@ -1,0 +1,17 @@
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\bin\ARM\Debug\resources.pri
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\bin\ARM\Debug\AppxManifest.xml
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\bin\ARM\Debug\windmillsimulator.build.appxrecipe
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\windmillsimulator.njsproj.GenerateResource.Cache
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\priconfig.xml
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\layout.resfiles
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\resources.resfiles
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\pri.resfiles
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\qualifiers.txt
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\eksko\Documents\Visual Studio 2015\Projects\windmillsimulator\obj\ARM\Debug\ProjectArchitectures.txt

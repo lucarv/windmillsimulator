@@ -1,0 +1,12 @@
+extends layout
+
+block content
+    .jumbotron
+
+      h2 REF: #{title}
+      if timeStamp != ''
+        p last sent message: #{timeStamp}
+      else
+        p no message has been sent from this device since last reboot
+    if ta
+        p #{ta} turbines in array

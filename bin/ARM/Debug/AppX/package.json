@@ -1,0 +1,30 @@
+{
+  "name": "express4-uwp-app1",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Express4UwpApp1",
+  "author": {
+    "name": "eksko",
+    "email": ""
+  },
+  "dependencies": {
+    "azure-iot-device": "^1.1.5",
+    "azure-iot-device-mqtt": "^1.1.5",
+    "body-parser": "~1.8.1",
+    "cookie-parser": "~1.3.3",
+    "dateformat": "^2.0.0",
+    "debug": "~2.0.0",
+    "express": "~4.9.0",
+    "jade": "~1.6.0",
+    "jsonfile": "^2.4.0",
+    "morgan": "~1.3.0",
+    "querystring": "^0.2.0",
+    "serve-favicon": "~2.1.3",
+    "stylus": "0.42.3"
+  },
+  "target_arch": "ARM",
+  "platform": "uwp",
+  "scripts": {
+    "start": "--debug bin\\www"
+  }
+}

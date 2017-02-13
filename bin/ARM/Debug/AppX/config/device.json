@@ -1,0 +1,9 @@
+{
+    "connStr": [
+        "HostName=rbp3connecthub.azure-devices.net;DeviceId=vk-dev-001;SharedAccessKey=P9mHCTD/BWHwx6dMequJqSOgMWqSl/y+Xs/gsO9jqn8=",
+        "HostName=rbp3connecthub.azure-devices.net;DeviceId=vk-dev-002;SharedAccessKey=ebSqEcPWPw2D6M3MyJIiJNhZ/SPpg1NZhQ2lqhPyLJc=",
+        "HostName=rbp3connecthub.azure-devices.net;DeviceId=vk-dev-003;SharedAccessKey=TDnK8u+oOMhDQ1t50Ie4rrsrIPc+7aEesN4UzirDFQI=",
+        "HostName=rbp3connecthub.azure-devices.net;DeviceId=vk-dev-004;SharedAccessKey=hXnyDXCY7Mbpoi/WNKtLbjNFImejVAVzZf5xya/XXLM=",
+        "HostName=rbp3connecthub.azure-devices.net;DeviceId=vk-dev-005;SharedAccessKey=BiW59ct01x6x/p/TRune7JYOZW0ZDMR9CGLepdhrSRM="
+    ]
+}

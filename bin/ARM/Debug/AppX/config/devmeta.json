@@ -1,0 +1,25 @@
+{
+    "ObjectType2": "DeviceInfo",
+    "IsSimulatedDevice": 0,
+    "Version": "1.0",
+    "DeviceProperties": {
+        "DeviceID": 0,
+        "HubEnabledState": 1,
+        "CreatedTime": "2015-09-21T20: 28: 55.5448990Z",
+        "DeviceState": "normal",
+        "UpdatedTime": null,
+        "Manufacturer": "OakWoodSysInc.",
+        "ModelNumber": "MD-909",
+        "SerialNumber": "SER9090",
+        "FirmwareVersion": "1.10",
+        "Platform": "node.js",
+        "Processor": "ARM",
+        "InstalledRAM": "64MB",
+        "Latitude": 47.617025,
+        "Longitude": -122.191285
+    },
+    "DeviceMeasurements": {
+        "Temperature": 0,
+        "Humidity": 1
+    }
+}

@@ -1,0 +1,17 @@
+﻿body {
+    border-style: dashed;
+    border-radius: 25px;
+    border: 1px solid #808080;
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+p {
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+
+    padding: 50px;
+    color: darkred;
+}
